@@ -1,0 +1,2335 @@
+[
+  {
+    "name": "Computer & Laptop",
+    "icon": "💻",
+    "description": "Expert repair and upgrade services for computers and laptops.",
+    "services": [
+      {
+        "name": "Laptop Screen Replacement",
+        "desc": "Replace broken or flickering laptop screens.",
+        "duration": "2 hours",
+        "price": 2500,
+        "skills": [
+          "Hardware Repair",
+          "Screen Replacement"
+        ],
+        "tools": [
+          "Spudger",
+          "Screwdrivers",
+          "Heat Gun"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Laptop Battery Replacement",
+        "desc": "Replace swollen or degraded laptop batteries.",
+        "duration": "1 hour",
+        "price": 1500,
+        "skills": [
+          "Hardware Repair"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Anti-static Mat"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Laptop Keyboard Replacement",
+        "desc": "Fix sticky, missing, or non-functional keys.",
+        "duration": "2 hours",
+        "price": 1200,
+        "skills": [
+          "Hardware Repair"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Prying Tool"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Laptop Motherboard Repair",
+        "desc": "Chip-level motherboard repair for power issues.",
+        "duration": "3-5 days",
+        "price": 4000,
+        "skills": [
+          "Chip-level Repair",
+          "Soldering"
+        ],
+        "tools": [
+          "Soldering Iron",
+          "Multimeter",
+          "Microscope"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Laptop Hinge Repair",
+        "desc": "Repair or replace broken laptop body hinges.",
+        "duration": "3 hours",
+        "price": 1500,
+        "skills": [
+          "Hardware Repair",
+          "Fabrication"
+        ],
+        "tools": [
+          "Epoxy",
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Laptop Fan Replacement",
+        "desc": "Fix overheating issues by replacing cooling fans.",
+        "duration": "1 hour",
+        "price": 800,
+        "skills": [
+          "Hardware Repair",
+          "Thermal Pasting"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Thermal Paste"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Laptop SSD Upgrade",
+        "desc": "Speed up your laptop by upgrading to a fast SSD.",
+        "duration": "2 hours",
+        "price": 800,
+        "skills": [
+          "Hardware Upgrade",
+          "OS Installation"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "USB Drive"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Laptop RAM Upgrade",
+        "desc": "Increase memory for better multitasking performance.",
+        "duration": "30 mins",
+        "price": 500,
+        "skills": [
+          "Hardware Upgrade"
+        ],
+        "tools": [
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Printers",
+    "icon": "🖨️",
+    "description": "Installation, repair, and maintenance for all types of printers.",
+    "services": [
+      {
+        "name": "Printer Installation",
+        "desc": "Unboxing, physical setup, and driver installation.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Device Setup",
+          "Driver Configuration"
+        ],
+        "tools": [
+          "Laptop for Testing"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Printer Repair",
+        "desc": "Diagnose and fix hardware or printing quality issues.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Hardware Repair",
+          "Printer Diagnostics"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Multimeter",
+          "Cleaning Kit"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Cartridge Refilling",
+        "desc": "Refill ink cartridges for inkjet printers.",
+        "duration": "30 mins",
+        "price": 300,
+        "skills": [
+          "Ink Refilling"
+        ],
+        "tools": [
+          "Syringes",
+          "Ink Bottles",
+          "Gloves"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Toner Replacement",
+        "desc": "Replace toner cartridges for laser printers.",
+        "duration": "30 mins",
+        "price": 400,
+        "skills": [
+          "Hardware Handling"
+        ],
+        "tools": [],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "WiFi Printer Setup",
+        "desc": "Connect your printer to the wireless network.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Network Configuration"
+        ],
+        "tools": [
+          "Laptop/Smartphone"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Paper Jam Resolution",
+        "desc": "Safely remove stuck paper and clean rollers.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Printer Maintenance"
+        ],
+        "tools": [
+          "Tweezers",
+          "Roller Cleaner"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Printer Drum Replacement",
+        "desc": "Replace worn out imaging drums in laser printers.",
+        "duration": "1 hour",
+        "price": 800,
+        "skills": [
+          "Hardware Repair"
+        ],
+        "tools": [
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Networking",
+    "icon": "🌐",
+    "description": "Router setup, cabling, and network troubleshooting.",
+    "services": [
+      {
+        "name": "Wi-Fi Router Setup",
+        "desc": "Configure a new Wi-Fi router and set up passwords.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Network Configuration"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Wi-Fi Dead Zone Fix",
+        "desc": "Install range extenders or mesh systems.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Network Surveying"
+        ],
+        "tools": [
+          "Wi-Fi Analyzer"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "LAN Cabling (Per Node)",
+        "desc": "Lay and crimp CAT6 cables for wired internet.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Cable Crimping"
+        ],
+        "tools": [
+          "Crimping Tool",
+          "Cable Tester",
+          "Drill"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Network Switch Installation",
+        "desc": "Mount and configure unmanaged/managed switches.",
+        "duration": "2 hours",
+        "price": 1200,
+        "skills": [
+          "Hardware Installation",
+          "Networking"
+        ],
+        "tools": [
+          "Rack Mounting Kit"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Office Network Setup",
+        "desc": "Complete network setup for small to medium offices.",
+        "duration": "1 day",
+        "price": 5000,
+        "skills": [
+          "Network Architecture",
+          "Cabling"
+        ],
+        "tools": [
+          "Drill",
+          "Crimper",
+          "Cable Tester",
+          "Ladder"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Internet Troubleshooting",
+        "desc": "Diagnose and fix dropped connections or slow speeds.",
+        "duration": "1.5 hours",
+        "price": 800,
+        "skills": [
+          "Network Diagnostics"
+        ],
+        "tools": [
+          "Laptop",
+          "Cable Tester"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Firewall Configuration",
+        "desc": "Setup hardware firewall for network security.",
+        "duration": "3 hours",
+        "price": 3000,
+        "skills": [
+          "Network Security",
+          "Firewall Rules"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "CCTV & Surveillance",
+    "icon": "📹",
+    "description": "Installation and repair of security camera systems.",
+    "services": [
+      {
+        "name": "CCTV Camera Installation",
+        "desc": "Mount and wire a new CCTV camera.",
+        "duration": "2 hours",
+        "price": 800,
+        "skills": [
+          "Hardware Installation",
+          "Cabling"
+        ],
+        "tools": [
+          "Drill",
+          "Wire Stripper",
+          "Ladder"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "DVR/NVR Configuration",
+        "desc": "Setup recording device and format hard drives.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "DVR Configuration"
+        ],
+        "tools": [
+          "Monitor",
+          "Mouse"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Mobile App View Setup",
+        "desc": "Configure CCTV system for remote smartphone viewing.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Network Configuration",
+          "Port Forwarding"
+        ],
+        "tools": [
+          "Laptop",
+          "Smartphone"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Camera Relocation",
+        "desc": "Move an existing camera to a new spot.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Hardware Installation",
+          "Cabling"
+        ],
+        "tools": [
+          "Drill",
+          "Ladder",
+          "Cables"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Video Loss Troubleshooting",
+        "desc": "Diagnose and fix cameras showing 'Video Loss'.",
+        "duration": "2 hours",
+        "price": 800,
+        "skills": [
+          "CCTV Diagnostics",
+          "Cabling"
+        ],
+        "tools": [
+          "Multimeter",
+          "BNC Connectors"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "CCTV Hard Drive Replacement",
+        "desc": "Replace faulty HDD in DVR and format it.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Hardware Repair"
+        ],
+        "tools": [
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "IP Camera Setup",
+        "desc": "Configure network-based IP security cameras.",
+        "duration": "2 hours",
+        "price": 1200,
+        "skills": [
+          "Networking",
+          "IP Configuration"
+        ],
+        "tools": [
+          "Laptop",
+          "Crimper"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Server & Storage",
+    "icon": "🗄️",
+    "description": "Enterprise server setup and NAS storage configuration.",
+    "services": [
+      {
+        "name": "Windows Server Installation",
+        "desc": "Install Windows Server OS and configure basic roles.",
+        "duration": "4 hours",
+        "price": 4000,
+        "skills": [
+          "OS Installation",
+          "Server Admin"
+        ],
+        "tools": [
+          "Bootable USB",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Linux Server Setup",
+        "desc": "Setup Ubuntu/CentOS servers for web or database use.",
+        "duration": "3 hours",
+        "price": 3500,
+        "skills": [
+          "Linux Admin"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Active Directory Setup",
+        "desc": "Configure Domain Controller and add users.",
+        "duration": "5 hours",
+        "price": 5000,
+        "skills": [
+          "Windows Server Admin"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "NAS Storage Configuration",
+        "desc": "Setup Network Attached Storage (Synology/QNAP).",
+        "duration": "3 hours",
+        "price": 3000,
+        "skills": [
+          "Storage Configuration",
+          "Networking"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "RAID Configuration",
+        "desc": "Configure RAID arrays for data redundancy.",
+        "duration": "2 hours",
+        "price": 2000,
+        "skills": [
+          "Hardware Configuration"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Server Hardware Upgrade",
+        "desc": "Install additional RAM or drives in enterprise servers.",
+        "duration": "2 hours",
+        "price": 2500,
+        "skills": [
+          "Server Hardware"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Anti-static Mat"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Server Maintenance & Cleaning",
+        "desc": "Blow out dust and replace thermal paste on servers.",
+        "duration": "3 hours",
+        "price": 2500,
+        "skills": [
+          "Hardware Maintenance"
+        ],
+        "tools": [
+          "Air Blower",
+          "Thermal Paste",
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Cloud & Email",
+    "icon": "☁️",
+    "description": "Business email setup and cloud migration services.",
+    "services": [
+      {
+        "name": "Google Workspace Setup",
+        "desc": "Setup custom domain email with Google Workspace.",
+        "duration": "2 hours",
+        "price": 2000,
+        "skills": [
+          "Cloud Admin",
+          "DNS Configuration"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Microsoft 365 Setup",
+        "desc": "Setup Office 365 accounts and exchange server.",
+        "duration": "2.5 hours",
+        "price": 2500,
+        "skills": [
+          "Cloud Admin",
+          "DNS Configuration"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Email Migration",
+        "desc": "Migrate emails from old host to new cloud provider.",
+        "duration": "1 day",
+        "price": 4000,
+        "skills": [
+          "Data Migration"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Outlook Configuration",
+        "desc": "Setup IMAP/POP3 emails in MS Outlook client.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Software Configuration"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "AWS Basic Setup",
+        "desc": "Setup an EC2 instance and assign an Elastic IP.",
+        "duration": "2 hours",
+        "price": 3000,
+        "skills": [
+          "Cloud Architecture"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Cloud Backup Configuration",
+        "desc": "Automate PC/Server backups to cloud storage.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "Backup Solutions"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Domain & DNS Management",
+        "desc": "Purchase domains and configure MX/TXT/A records.",
+        "duration": "1 hour",
+        "price": 800,
+        "skills": [
+          "DNS Management"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Email Spoofing Protection",
+        "desc": "Configure SPF, DKIM, and DMARC records.",
+        "duration": "1.5 hours",
+        "price": 1500,
+        "skills": [
+          "DNS Management",
+          "Security"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      }
+    ]
+  },
+  {
+    "name": "Software Installation",
+    "icon": "💾",
+    "description": "OS and application software installation services.",
+    "services": [
+      {
+        "name": "Windows OS Installation",
+        "desc": "Format and install Windows 10/11 with drivers.",
+        "duration": "2 hours",
+        "price": 800,
+        "skills": [
+          "OS Installation",
+          "Driver Setup"
+        ],
+        "tools": [
+          "Bootable USB"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "MacOS Reinstallation",
+        "desc": "Clean install macOS on MacBooks/iMacs.",
+        "duration": "2.5 hours",
+        "price": 1200,
+        "skills": [
+          "MacOS Admin"
+        ],
+        "tools": [
+          "Bootable USB"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "MS Office Installation",
+        "desc": "Install and activate Microsoft Office Suite.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Software Installation"
+        ],
+        "tools": [
+          "USB Drive"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Design Software Setup",
+        "desc": "Install Adobe CC, AutoCAD, or CorelDraw (License provided by user).",
+        "duration": "1.5 hours",
+        "price": 800,
+        "skills": [
+          "Software Installation"
+        ],
+        "tools": [
+          "USB Drive"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Accounting Software Setup",
+        "desc": "Install Tally Prime, Busy, or QuickBooks.",
+        "duration": "1.5 hours",
+        "price": 1000,
+        "skills": [
+          "Software Installation"
+        ],
+        "tools": [
+          "USB Drive"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Dual Boot Setup",
+        "desc": "Install Windows and Linux together on one PC.",
+        "duration": "3 hours",
+        "price": 1500,
+        "skills": [
+          "OS Installation",
+          "Disk Partitioning"
+        ],
+        "tools": [
+          "Bootable USBs"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Antivirus Installation",
+        "desc": "Install and configure premium antivirus software.",
+        "duration": "45 mins",
+        "price": 400,
+        "skills": [
+          "Software Installation"
+        ],
+        "tools": [
+          "USB Drive"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Data Recovery",
+    "icon": "💽",
+    "description": "Recover lost, deleted, or corrupted files from drives.",
+    "services": [
+      {
+        "name": "Accidental Deletion Recovery",
+        "desc": "Recover permanently deleted files using software.",
+        "duration": "3 hours",
+        "price": 2000,
+        "skills": [
+          "Software Data Recovery"
+        ],
+        "tools": [
+          "Recovery Software",
+          "External HDD"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Formatted Drive Recovery",
+        "desc": "Recover data from accidentally formatted hard drives.",
+        "duration": "1 day",
+        "price": 3500,
+        "skills": [
+          "Software Data Recovery"
+        ],
+        "tools": [
+          "Recovery Software",
+          "External HDD"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Corrupted OS Data Backup",
+        "desc": "Extract files from a PC that won't boot.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "Data Backup",
+          "Live OS"
+        ],
+        "tools": [
+          "Live Linux USB",
+          "External HDD"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "External Hard Drive Recovery",
+        "desc": "Fix RAW partition errors on external drives.",
+        "duration": "4 hours",
+        "price": 2500,
+        "skills": [
+          "Partition Repair"
+        ],
+        "tools": [
+          "Laptop",
+          "Recovery Tools"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "SD Card / Pendrive Recovery",
+        "desc": "Recover photos/videos from corrupted flash storage.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Software Data Recovery"
+        ],
+        "tools": [
+          "Card Reader",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Hardware Level Drive Diagnostics",
+        "desc": "Inspect clicking hard drives in clean room.",
+        "duration": "3 days",
+        "price": 5000,
+        "skills": [
+          "Hardware Data Recovery"
+        ],
+        "tools": [
+          "Clean Room",
+          "Head Replacement Tools"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Ransomware Encrypted Data Assessment",
+        "desc": "Analyze ransomware strain and attempt decryption.",
+        "duration": "1 day",
+        "price": 3000,
+        "skills": [
+          "Cyber Security",
+          "Malware Analysis"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      }
+    ]
+  },
+  {
+    "name": "Cyber Security",
+    "icon": "🛡️",
+    "description": "Protect your systems from viruses and hackers.",
+    "services": [
+      {
+        "name": "Virus & Malware Removal",
+        "desc": "Deep scan and remove trojans, spyware, and viruses.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Malware Removal"
+        ],
+        "tools": [
+          "Bootable Antivirus USB"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Ransomware Isolation",
+        "desc": "Disconnect infected systems and contain spread.",
+        "duration": "2 hours",
+        "price": 2500,
+        "skills": [
+          "Incident Response"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Network Vulnerability Scan",
+        "desc": "Scan office network for open ports and vulnerabilities.",
+        "duration": "4 hours",
+        "price": 4000,
+        "skills": [
+          "Ethical Hacking"
+        ],
+        "tools": [
+          "Laptop",
+          "Scanning Software"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Endpoint Security Setup",
+        "desc": "Deploy corporate antivirus solutions on employee PCs.",
+        "duration": "1 day",
+        "price": 5000,
+        "skills": [
+          "Security Admin"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Browser Hijack Cleanup",
+        "desc": "Remove adware causing annoying popups and redirects.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Malware Removal"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Security Audit (Small Office)",
+        "desc": "Review Wi-Fi passwords, firewalls, and PC security.",
+        "duration": "4 hours",
+        "price": 3500,
+        "skills": [
+          "IT Auditing"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "VPN Configuration",
+        "desc": "Setup secure VPN for remote employees.",
+        "duration": "2 hours",
+        "price": 2000,
+        "skills": [
+          "Network Security"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Smart Home",
+    "icon": "🏠",
+    "description": "Installation and configuration of smart devices.",
+    "services": [
+      {
+        "name": "Smart Speaker Setup",
+        "desc": "Configure Alexa, Google Home, or Apple HomePod.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Device Setup",
+          "IoT"
+        ],
+        "tools": [
+          "Smartphone"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Smart Door Lock Installation",
+        "desc": "Install and configure biometric/WiFi door locks.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "Hardware Installation",
+          "Carpentry Basics"
+        ],
+        "tools": [
+          "Drill",
+          "Screwdrivers",
+          "Chisel"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Smart Switch Installation",
+        "desc": "Replace traditional switches with WiFi smart switches.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Electrical Basics",
+          "IoT"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Voltage Tester",
+          "Wire Stripper"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Smart Bulb Configuration",
+        "desc": "Setup Philips Hue or other smart lighting ecosystems.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "IoT Setup"
+        ],
+        "tools": [
+          "Smartphone"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Video Doorbell Installation",
+        "desc": "Install and configure Ring/Nest video doorbells.",
+        "duration": "2 hours",
+        "price": 1200,
+        "skills": [
+          "Hardware Installation",
+          "Networking"
+        ],
+        "tools": [
+          "Drill",
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Smart Home Hub Setup",
+        "desc": "Configure Home Assistant or Samsung SmartThings hub.",
+        "duration": "3 hours",
+        "price": 2500,
+        "skills": [
+          "IoT Configuration",
+          "Networking"
+        ],
+        "tools": [
+          "Laptop",
+          "Smartphone"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Robot Vacuum Setup",
+        "desc": "Connect robot vacuum to WiFi and map your home.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Device Setup"
+        ],
+        "tools": [
+          "Smartphone"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Smart Thermostat Installation",
+        "desc": "Wire and configure smart AC/Heating controllers.",
+        "duration": "1.5 hours",
+        "price": 1000,
+        "skills": [
+          "Electrical Basics",
+          "IoT"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Voltage Tester"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Office Infrastructure",
+    "icon": "🏢",
+    "description": "IT setup for new offices, desk cabling, and ergonomics.",
+    "services": [
+      {
+        "name": "New Employee Workstation Setup",
+        "desc": "Unbox, assemble, and configure a new PC/Monitor.",
+        "duration": "1.5 hours",
+        "price": 800,
+        "skills": [
+          "Hardware Assembly",
+          "OS Configuration"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Cable Ties"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Under-desk Cable Management",
+        "desc": "Organize messy cables under office desks neatly.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Cable Management"
+        ],
+        "tools": [
+          "Cable Ties",
+          "Cable Sleeves",
+          "Adhesive Clips"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Monitor Arm Installation",
+        "desc": "Clamp and setup single/dual monitor mounting arms.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Hardware Assembly"
+        ],
+        "tools": [
+          "Allen Keys",
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Conference Room Tech Setup",
+        "desc": "Setup TV, camera, and mics for zoom meetings.",
+        "duration": "3 hours",
+        "price": 3000,
+        "skills": [
+          "AV Setup",
+          "Hardware Assembly"
+        ],
+        "tools": [
+          "Drill",
+          "Screwdrivers",
+          "Cable Ties"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Projector Installation",
+        "desc": "Ceiling mount projector and configure screen alignment.",
+        "duration": "3 hours",
+        "price": 2500,
+        "skills": [
+          "Hardware Installation",
+          "AV Tuning"
+        ],
+        "tools": [
+          "Drill",
+          "Ladder",
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "UPS & Inverter Setup",
+        "desc": "Install and connect UPS systems to office workstations.",
+        "duration": "1.5 hours",
+        "price": 1000,
+        "skills": [
+          "Electrical Basics",
+          "Hardware Handling"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Multimeter"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Office IT Shifting",
+        "desc": "Safely disconnect, pack, and reconnect IT equipment.",
+        "duration": "1 day",
+        "price": 5000,
+        "skills": [
+          "Hardware Handling",
+          "Logistics"
+        ],
+        "tools": [
+          "Packing Materials",
+          "Screwdrivers",
+          "Labels"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "POS Systems",
+    "icon": "💳",
+    "description": "Point of sale machines, receipt printers, and barcode scanners.",
+    "services": [
+      {
+        "name": "POS Terminal Installation",
+        "desc": "Setup touch-screen POS computer for retail shops.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "Hardware Setup",
+          "OS Configuration"
+        ],
+        "tools": [
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Thermal Receipt Printer Setup",
+        "desc": "Install driver and configure 2-inch/3-inch receipt printers.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Driver Installation"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Barcode Scanner Configuration",
+        "desc": "Program USB/Bluetooth barcode scanners.",
+        "duration": "45 mins",
+        "price": 500,
+        "skills": [
+          "Hardware Setup"
+        ],
+        "tools": [
+          "Laptop",
+          "Programming Manual"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Cash Drawer Integration",
+        "desc": "Connect cash drawer to receipt printer to open automatically.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Hardware Configuration"
+        ],
+        "tools": [
+          "Laptop",
+          "RJ11 Cable"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Billing Software Troubleshooting",
+        "desc": "Fix crashing or slow retail billing software.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Software Troubleshooting"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Inventory Database Backup",
+        "desc": "Take secure backups of offline retail databases.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Database Management"
+        ],
+        "tools": [
+          "USB Drive"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Weighing Scale Integration",
+        "desc": "Connect digital weighing scales to POS software via COM port.",
+        "duration": "1.5 hours",
+        "price": 1000,
+        "skills": [
+          "Serial Port Configuration"
+        ],
+        "tools": [
+          "Laptop",
+          "Serial Cables"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Attendance & Biometric Systems",
+    "icon": "👆",
+    "description": "Fingerprint scanners, face recognition, and access control.",
+    "services": [
+      {
+        "name": "Biometric Machine Installation",
+        "desc": "Wall mount and power up a biometric attendance device.",
+        "duration": "2 hours",
+        "price": 1200,
+        "skills": [
+          "Hardware Installation",
+          "Electrical Basics"
+        ],
+        "tools": [
+          "Drill",
+          "Screwdrivers",
+          "Wire Stripper"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Biometric Software Setup",
+        "desc": "Install eTimeTrackLite or Essl software on admin PC.",
+        "duration": "1.5 hours",
+        "price": 1000,
+        "skills": [
+          "Software Installation",
+          "Networking"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Access Control EM Lock Setup",
+        "desc": "Install magnetic locks on glass/wooden doors.",
+        "duration": "4 hours",
+        "price": 3000,
+        "skills": [
+          "Hardware Installation",
+          "Access Control"
+        ],
+        "tools": [
+          "Drill",
+          "Grinder",
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Fingerprint Enrollment",
+        "desc": "Register employee fingerprints/faces into the machine.",
+        "duration": "2 hours",
+        "price": 800,
+        "skills": [
+          "System Operation"
+        ],
+        "tools": [],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Network Sync Troubleshooting",
+        "desc": "Fix biometric machine not sending logs to PC.",
+        "duration": "1.5 hours",
+        "price": 800,
+        "skills": [
+          "Networking",
+          "Software Troubleshooting"
+        ],
+        "tools": [
+          "Laptop",
+          "Cable Tester"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Data Extraction via USB",
+        "desc": "Manually extract attendance logs from machines without LAN.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "System Operation"
+        ],
+        "tools": [
+          "USB Drive",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Exit Switch Replacement",
+        "desc": "Replace faulty push-to-exit buttons for doors.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Electrical Basics"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Wire Stripper"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "TV & Display Installation",
+    "icon": "📺",
+    "description": "Wall mounting and setup for TVs, Monitors, and Digital Signage.",
+    "services": [
+      {
+        "name": "LED TV Wall Mounting (Up to 43\")",
+        "desc": "Securely mount standard-sized TVs to concrete walls.",
+        "duration": "1.5 hours",
+        "price": 600,
+        "skills": [
+          "Hardware Installation"
+        ],
+        "tools": [
+          "Drill",
+          "Leveler",
+          "Screwdrivers",
+          "Hammer"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Large TV Wall Mounting (50\"+)",
+        "desc": "Mount heavy, large screen TVs using heavy-duty brackets.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Hardware Installation"
+        ],
+        "tools": [
+          "Heavy Duty Drill",
+          "Leveler",
+          "Stud Finder"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Smart TV Initial Setup",
+        "desc": "Connect to WiFi, update firmware, and login to OTT apps.",
+        "duration": "1 hour",
+        "price": 400,
+        "skills": [
+          "Device Setup"
+        ],
+        "tools": [
+          "Smartphone"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Digital Signage Screen Setup",
+        "desc": "Install commercial displays and configure looping media.",
+        "duration": "2.5 hours",
+        "price": 1500,
+        "skills": [
+          "Hardware Installation",
+          "AV Setup"
+        ],
+        "tools": [
+          "Drill",
+          "Laptop",
+          "USB Drive"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Home Theater Audio Setup",
+        "desc": "Connect soundbars or 5.1 speakers to TV via ARC/Optical.",
+        "duration": "1.5 hours",
+        "price": 800,
+        "skills": [
+          "AV Configuration"
+        ],
+        "tools": [
+          "Cable Ties"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Concealed Wiring for TV",
+        "desc": "Hide dangling HDMI/Power cables behind the wall using casing.",
+        "duration": "2 hours",
+        "price": 800,
+        "skills": [
+          "Cable Management",
+          "Carpentry Basics"
+        ],
+        "tools": [
+          "Drill",
+          "Hacksaw",
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "TV Unmounting",
+        "desc": "Safely unmount a TV and bracket for moving.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Hardware Handling"
+        ],
+        "tools": [
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Gaming PC Services",
+    "icon": "🎮",
+    "description": "Custom PC builds, liquid cooling, and performance tuning.",
+    "services": [
+      {
+        "name": "Custom Gaming PC Assembly",
+        "desc": "Professional assembly of components with neat cable management.",
+        "duration": "4 hours",
+        "price": 2500,
+        "skills": [
+          "Hardware Assembly",
+          "Cable Management"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Anti-static Mat",
+          "Zip Ties"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "AIO Liquid Cooler Installation",
+        "desc": "Install All-In-One CPU liquid cooling blocks and radiators.",
+        "duration": "1.5 hours",
+        "price": 1000,
+        "skills": [
+          "Hardware Installation",
+          "Thermal Pasting"
+        ],
+        "tools": [
+          "Screwdrivers",
+          "Thermal Paste"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Custom Loop Water Cooling setup",
+        "desc": "Build hard-tube custom water cooling loops.",
+        "duration": "1 day",
+        "price": 8000,
+        "skills": [
+          "Advanced Hardware Modding",
+          "Plumbing"
+        ],
+        "tools": [
+          "Heat Gun",
+          "Tube Cutter",
+          "Leak Tester"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "RGB Lighting Sync",
+        "desc": "Connect and sync ARGB fans and strips using software.",
+        "duration": "1.5 hours",
+        "price": 800,
+        "skills": [
+          "Hardware Wiring",
+          "Software Configuration"
+        ],
+        "tools": [
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Overclocking & Undervolting",
+        "desc": "Tune CPU/GPU voltage and clocks for safe performance gains.",
+        "duration": "3 hours",
+        "price": 1500,
+        "skills": [
+          "Performance Tuning",
+          "Hardware Diagnostics"
+        ],
+        "tools": [
+          "Laptop",
+          "Stress Testing Software"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Deep Cleaning Gaming PC",
+        "desc": "Remove dust from radiators, fans, and apply fresh thermal paste.",
+        "duration": "2 hours",
+        "price": 1200,
+        "skills": [
+          "Hardware Maintenance"
+        ],
+        "tools": [
+          "Air Blower",
+          "Brushes",
+          "Thermal Paste",
+          "Rubbing Alcohol"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Game Crash Troubleshooting",
+        "desc": "Diagnose blue screens or crashes during heavy gaming.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Software Diagnostics",
+          "Hardware Diagnostics"
+        ],
+        "tools": [
+          "Laptop",
+          "Diagnostic Software"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "GPU Installation / Upgrade",
+        "desc": "Install massive new graphics cards and update drivers.",
+        "duration": "1 hour",
+        "price": 600,
+        "skills": [
+          "Hardware Installation"
+        ],
+        "tools": [
+          "Screwdrivers"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Mobile & Tablet Support",
+    "icon": "📱",
+    "description": "Data transfer, software fixes, and basic troubleshooting for mobile devices.",
+    "services": [
+      {
+        "name": "Data Transfer to New Phone",
+        "desc": "Move contacts, photos, and WhatsApp chats to a new device.",
+        "duration": "2 hours",
+        "price": 800,
+        "skills": [
+          "Data Migration"
+        ],
+        "tools": [
+          "Data Cables",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Factory Reset & Setup",
+        "desc": "Safely wipe old phone and set it up like new.",
+        "duration": "1 hour",
+        "price": 400,
+        "skills": [
+          "Device Setup"
+        ],
+        "tools": [],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Forgot Password Unlock (Android)",
+        "desc": "Hard reset Android phones when pattern/PIN is forgotten.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Software Recovery"
+        ],
+        "tools": [
+          "Laptop",
+          "Data Cable"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Storage Cleanup",
+        "desc": "Free up space on phones showing 'Storage Full' warnings.",
+        "duration": "1 hour",
+        "price": 400,
+        "skills": [
+          "Software Maintenance"
+        ],
+        "tools": [
+          "Laptop",
+          "Data Cable"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Firmware Flashing / Unbricking",
+        "desc": "Restore stock OS on phones stuck on boot logo.",
+        "duration": "2 hours",
+        "price": 1000,
+        "skills": [
+          "Software Flashing"
+        ],
+        "tools": [
+          "Laptop",
+          "Flashing Software",
+          "Data Cable"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Tablet Screen Guard Application",
+        "desc": "Perfectly apply tempered glass without bubbles.",
+        "duration": "30 mins",
+        "price": 200,
+        "skills": [
+          "Precision Application"
+        ],
+        "tools": [
+          "Microfiber Cloth",
+          "Screen Cleaning Wipes"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "MDM Setup for Corporate Phones",
+        "desc": "Enroll company phones into Mobile Device Management systems.",
+        "duration": "1.5 hours",
+        "price": 1200,
+        "skills": [
+          "MDM Admin"
+        ],
+        "tools": [
+          "Laptop",
+          "Data Cable"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Annual Maintenance Contracts (AMC)",
+    "icon": "🛡️",
+    "description": "Pre-purchased bulk maintenance services and site surveys.",
+    "services": [
+      {
+        "name": "IT AMC Site Survey",
+        "desc": "Send an engineer to evaluate office IT setup for an AMC quote.",
+        "duration": "3 hours",
+        "price": 1000,
+        "skills": [
+          "IT Auditing",
+          "Sales"
+        ],
+        "tools": [
+          "Notepad",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Preventive Maintenance Visit (PC)",
+        "desc": "Routine health check and cleanup for 1 office PC.",
+        "duration": "45 mins",
+        "price": 400,
+        "skills": [
+          "Hardware Maintenance",
+          "Software Maintenance"
+        ],
+        "tools": [
+          "Blower",
+          "Cleaning Kit",
+          "USB Drive"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Preventive Maintenance Visit (Printer)",
+        "desc": "Routine cleaning and alignment for 1 office printer.",
+        "duration": "45 mins",
+        "price": 500,
+        "skills": [
+          "Printer Maintenance"
+        ],
+        "tools": [
+          "Cleaning Kit",
+          "Roller Restorer"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Preventive Maintenance Visit (Server)",
+        "desc": "Routine log check and dust cleanup for 1 server.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "Server Admin",
+          "Hardware Maintenance"
+        ],
+        "tools": [
+          "Laptop",
+          "Blower"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "AMC Emergency Breakdown Visit",
+        "desc": "Priority response visit for existing AMC clients.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "IT Diagnostics"
+        ],
+        "tools": [
+          "Laptop",
+          "Toolkit",
+          "Multimeter"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Monthly IT Health Report",
+        "desc": "Generate network, backup, and security health reports.",
+        "duration": "3 hours",
+        "price": 2000,
+        "skills": [
+          "IT Admin",
+          "Reporting"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Asset Tagging & Inventory",
+        "desc": "Label and record all IT assets in an office.",
+        "duration": "1 day",
+        "price": 3000,
+        "skills": [
+          "Data Entry",
+          "Organization"
+        ],
+        "tools": [
+          "Label Maker",
+          "Barcode Scanner",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Enterprise IT Support",
+    "icon": "🏢",
+    "description": "Advanced services for corporate environments.",
+    "services": [
+      {
+        "name": "Resident IT Engineer (Per Day)",
+        "desc": "Hire an L1/L2 IT engineer for a full day onsite.",
+        "duration": "8 hours",
+        "price": 2000,
+        "skills": [
+          "General IT Support"
+        ],
+        "tools": [
+          "Toolkit",
+          "Laptop"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Bulk OS Deployment",
+        "desc": "Deploy Windows images to multiple PCs over the network using WDS/MDT.",
+        "duration": "1 day",
+        "price": 6000,
+        "skills": [
+          "OS Deployment",
+          "Networking"
+        ],
+        "tools": [
+          "Laptop",
+          "Network Switches"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Switch & Rack Dressing",
+        "desc": "Clean up messy server racks and punch patch panels.",
+        "duration": "1 day",
+        "price": 5000,
+        "skills": [
+          "Cable Management",
+          "Networking"
+        ],
+        "tools": [
+          "Punch Down Tool",
+          "Cable Ties",
+          "Velcro",
+          "Label Maker"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Fiber Optic Splicing",
+        "desc": "Splice and join broken fiber optic cables.",
+        "duration": "3 hours",
+        "price": 4000,
+        "skills": [
+          "Fiber Splicing"
+        ],
+        "tools": [
+          "Splicing Machine",
+          "Cleaver",
+          "Visual Fault Locator"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      },
+      {
+        "name": "Leased Line Failover Setup",
+        "desc": "Configure dual WAN routers with auto-failover and load balancing.",
+        "duration": "3 hours",
+        "price": 3500,
+        "skills": [
+          "Network Architecture"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "VoIP IP Phone Setup",
+        "desc": "Configure Grandstream/Cisco IP phones and PBX extensions.",
+        "duration": "1.5 hours",
+        "price": 800,
+        "skills": [
+          "VoIP Configuration"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Corporate Event IT Support",
+        "desc": "Provide dedicated IT and Wi-Fi support during exhibitions/events.",
+        "duration": "1 day",
+        "price": 5000,
+        "skills": [
+          "Event IT Support",
+          "Networking"
+        ],
+        "tools": [
+          "Laptop",
+          "Toolkit",
+          "Network Cables"
+        ],
+        "emergency": true,
+        "homeVisit": true
+      }
+    ]
+  },
+  {
+    "name": "Remote IT Support",
+    "icon": "🎧",
+    "description": "Quick software support delivered via TeamViewer/AnyDesk.",
+    "services": [
+      {
+        "name": "Remote Software Installation",
+        "desc": "Install drivers or software via remote desktop.",
+        "duration": "30 mins",
+        "price": 300,
+        "skills": [
+          "Software Installation"
+        ],
+        "tools": [
+          "Laptop",
+          "AnyDesk"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Remote Email Troubleshooting",
+        "desc": "Fix Outlook sync or send/receive errors remotely.",
+        "duration": "45 mins",
+        "price": 400,
+        "skills": [
+          "Software Troubleshooting"
+        ],
+        "tools": [
+          "Laptop",
+          "AnyDesk"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Remote Printer Configuration",
+        "desc": "Install printer drivers on network PCs remotely.",
+        "duration": "30 mins",
+        "price": 300,
+        "skills": [
+          "Driver Installation"
+        ],
+        "tools": [
+          "Laptop",
+          "AnyDesk"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Remote Speed Optimization",
+        "desc": "Clear temp files, disable startup apps, and optimize PC remotely.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "OS Optimization"
+        ],
+        "tools": [
+          "Laptop",
+          "AnyDesk"
+        ],
+        "emergency": false,
+        "homeVisit": false
+      },
+      {
+        "name": "Remote Virus Scan",
+        "desc": "Run malware removal tools remotely.",
+        "duration": "1.5 hours",
+        "price": 600,
+        "skills": [
+          "Malware Removal"
+        ],
+        "tools": [
+          "Laptop",
+          "AnyDesk"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Remote Server Diagnostics",
+        "desc": "Check server logs and diagnose crashes remotely.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "Server Admin"
+        ],
+        "tools": [
+          "Laptop",
+          "RDP/SSH"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      },
+      {
+        "name": "Remote Tally Support",
+        "desc": "Fix Tally license or connectivity issues remotely.",
+        "duration": "1 hour",
+        "price": 500,
+        "skills": [
+          "Tally Administration"
+        ],
+        "tools": [
+          "Laptop",
+          "AnyDesk"
+        ],
+        "emergency": true,
+        "homeVisit": false
+      }
+    ]
+  },
+  {
+    "name": "IT Consultation",
+    "icon": "🤝",
+    "description": "Expert advice on IT infrastructure, upgrades, and purchasing.",
+    "services": [
+      {
+        "name": "Office IT Purchasing Advice",
+        "desc": "Get unbiased recommendations for buying laptops, servers, and networks.",
+        "duration": "2 hours",
+        "price": 1500,
+        "skills": [
+          "IT Consulting",
+          "Procurement"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Cloud Migration Strategy",
+        "desc": "Consultation on moving on-premise servers to AWS/Azure.",
+        "duration": "3 hours",
+        "price": 3000,
+        "skills": [
+          "Cloud Architecture",
+          "IT Consulting"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Security Compliance Review",
+        "desc": "Assess IT policies for ISO 27001 or general data protection readiness.",
+        "duration": "1 day",
+        "price": 8000,
+        "skills": [
+          "IT Auditing",
+          "Cyber Security"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Custom App Requirements Gathering",
+        "desc": "Consultation to draft requirement documents for custom software.",
+        "duration": "4 hours",
+        "price": 4000,
+        "skills": [
+          "Business Analysis",
+          "Software Architecture"
+        ],
+        "tools": [
+          "Notepad",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Disaster Recovery Planning",
+        "desc": "Design a backup and recovery plan for business continuity.",
+        "duration": "4 hours",
+        "price": 5000,
+        "skills": [
+          "IT Architecture",
+          "BCP/DR"
+        ],
+        "tools": [
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Smart Office Automation Design",
+        "desc": "Plan layouts for automated lighting, blinds, and boardroom AV.",
+        "duration": "3 hours",
+        "price": 2500,
+        "skills": [
+          "IoT Design",
+          "AV Design"
+        ],
+        "tools": [
+          "Notepad",
+          "Laptop"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      },
+      {
+        "name": "Network Redesign Consultation",
+        "desc": "Plan VLANs, subnets, and routing for an expanding office.",
+        "duration": "4 hours",
+        "price": 4000,
+        "skills": [
+          "Network Architecture"
+        ],
+        "tools": [
+          "Laptop",
+          "Visio"
+        ],
+        "emergency": false,
+        "homeVisit": true
+      }
+    ]
+  }
+]
