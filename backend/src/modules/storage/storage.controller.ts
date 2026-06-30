@@ -22,7 +22,7 @@ export class StorageController {
   @Post('upload')
   @UseInterceptors(FileInterceptor('file'))
   async uploadFile(
-    @UploadedFile() file: Express.Multer.File,
+    @UploadedFile() file: any,
     @CurrentUser() user: User,
   ) {
     if (!file) throw new Error('No file provided');
